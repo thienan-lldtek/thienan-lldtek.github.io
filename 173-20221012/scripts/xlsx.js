@@ -44,7 +44,7 @@ function GetDataXlxs() {
 }
 function load_TemplateService(column,service_name,service_price,service_id){
     let layout;
-    if(column !== undefined && column != '' && column < 3){layout = "/components/layouts/menu/col-"+column+".html"}else{layout = "/components/layouts/menu/col-1.html"}
+    if(column !== undefined && column != '' && column < 3){layout = "./components/layouts/menu/col-"+column+".html"}else{layout = "./components/layouts/menu/col-1.html"}
     $.get(layout, function (data){
         data = data.replace('{service_name}', service_name).replace('{service_price}', service_price);
         $("#menu_service[service='"+service_id+"']").append(data)
