@@ -42,6 +42,7 @@ function GetDataXlxs() {
         });
     });
 }
+
 function load_TemplateService(column,service_name,service_price,service_id){
     let layout;
     if(column !== undefined && column != '' && column < 3){layout = "./components/layouts/menu/col-"+column+".html"}else{layout = "./components/layouts/menu/col-1.html"}
