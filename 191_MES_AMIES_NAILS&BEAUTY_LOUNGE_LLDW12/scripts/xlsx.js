@@ -1,1 +1,52 @@
-var _0xb9a0=["\x73\x65\x6C\x65\x63\x74\x20\x2A\x20\x66\x72\x6F\x6D\x20\x78\x6C\x73\x78\x28\x22\x73\x63\x72\x69\x70\x74\x73\x2F\x64\x61\x74\x61\x2F\x64\x61\x74\x61\x2E\x78\x6C\x73\x78\x22\x2C\x7B\x68\x65\x61\x64\x65\x72\x73\x3A\x74\x72\x75\x65\x2C\x20\x73\x68\x65\x65\x74\x69\x64\x3A\x22\x53\x65\x72\x76\x69\x63\x65\x73\x22\x2C\x20\x72\x61\x6E\x67\x65\x3A\x22\x41\x32\x3A\x44\x35\x30\x30\x22\x7D\x29","\x76\x61\x6C\x75\x65\x73","\x6C\x65\x6E\x67\x74\x68","","\x70\x75\x73\x68","\x65\x61\x63\x68","\x75\x6E\x73\x68\x69\x66\x74","\x63\x6F\x6E\x66\x69\x67\x2E\x6A\x73\x6F\x6E","\x64\x65\x62\x75\x67","\x6F\x6E","\x6C\x6F\x67","\x67\x65\x74\x4A\x53\x4F\x4E","\x61\x74\x74\x72\x69\x62\x75\x74\x65\x73","\x6E\x61\x6D\x65","\x73\x65\x72\x76\x69\x63\x65","\x76\x61\x6C\x75\x65","\x63\x6F\x6C\x75\x6D\x6E","\x61\x74\x74\x72","\x23\x6D\x65\x6E\x75\x5F\x73\x65\x72\x76\x69\x63\x65\x5B\x73\x65\x72\x76\x69\x63\x65\x3D\x27","\x27\x5D","\x70\x72\x69\x63\x65","\x64\x69\x76","\x2F\x63\x6F\x6D\x70\x6F\x6E\x65\x6E\x74\x73\x2F\x6C\x61\x79\x6F\x75\x74\x73\x2F\x6D\x65\x6E\x75\x2F\x63\x6F\x6C\x2D","\x2E\x68\x74\x6D\x6C","\x2F\x63\x6F\x6D\x70\x6F\x6E\x65\x6E\x74\x73\x2F\x6C\x61\x79\x6F\x75\x74\x73\x2F\x6D\x65\x6E\x75\x2F\x63\x6F\x6C\x2D\x31\x2E\x68\x74\x6D\x6C","\x7B\x73\x65\x72\x76\x69\x63\x65\x5F\x70\x72\x69\x63\x65\x7D","\x72\x65\x70\x6C\x61\x63\x65","\x7B\x73\x65\x72\x76\x69\x63\x65\x5F\x6E\x61\x6D\x65\x7D","\x61\x70\x70\x65\x6E\x64","\x67\x65\x74"];$(function(){GetDataXlxs()});function GetDataXlxs(){var _0x256dx2=[];var _0x256dx3=[];var _0x256dx4=[];var _0x256dx5={};alasql(_0xb9a0[0],[],function(_0x256dx6){var _0x256dx7;var _0x256dx8=[];$[_0xb9a0[5]](_0x256dx6,function(_0x256dx9,_0x256dxa){const _0x256dxb=Object[_0xb9a0[1]](_0x256dxa);if(_0x256dxb[_0xb9a0[2]]> 0&& _0x256dxb!= _0xb9a0[3]){_0x256dx8[_0xb9a0[4]](_0x256dxb)}});var _0x256dxc;var _0x256dxd=[];for(i= 0;i< _0x256dx8[_0xb9a0[2]];i++){if(_0x256dx8[i][_0xb9a0[2]]> 3){_0x256dxc= _0x256dx8[i][0]}else {_0x256dx8[i][_0xb9a0[6]](_0x256dxc)};_0x256dxd[_0xb9a0[4]](_0x256dx8[i])};$[_0xb9a0[5]](_0x256dxd,function(_0x256dx9,_0x256dxa){_0x256dx5[_0x256dxa[0]]= []});$[_0xb9a0[5]](_0x256dxd,function(_0x256dx9,_0x256dxa){var _0x256dxe={'\x73\x65\x72\x76\x69\x63\x65':_0x256dxa[1],'\x64\x65\x73\x63\x72\x69\x70\x74\x69\x6F\x6E':_0x256dxa[2],'\x70\x72\x69\x63\x65':_0x256dxa[3]};_0x256dx5[_0x256dxa[0]][_0xb9a0[4]](_0x256dxe)});$[_0xb9a0[11]](_0xb9a0[7],function(_0x256dxf){if(_0x256dxf[_0xb9a0[8]]!== _0xb9a0[3]&& _0x256dxf[_0xb9a0[8]]== _0xb9a0[9]&& _0x256dxf[_0xb9a0[8]]!== undefined){console[_0xb9a0[10]](_0x256dx5)}});$[_0xb9a0[5]](_0x256dx5,function(_0x256dx10,_0x256dx11){$(_0xb9a0[21])[_0xb9a0[5]](function(){$[_0xb9a0[5]](this[_0xb9a0[12]],function(_0x256dx9,_0x256dx12){if(_0x256dx12[_0xb9a0[13]]== _0xb9a0[14]&& _0x256dx12[_0xb9a0[15]]== _0x256dx10){var _0x256dx13=$(_0xb9a0[18]+ _0x256dx12[_0xb9a0[15]]+ _0xb9a0[19])[_0xb9a0[17]](_0xb9a0[16]);for(var _0x256dx9=0;_0x256dx9< _0x256dx11[_0xb9a0[2]];_0x256dx9++){let _0x256dx14=_0x256dx11[_0x256dx9][_0xb9a0[14]];let _0x256dx15=_0x256dx11[_0x256dx9][_0xb9a0[20]];let _0x256dx16=_0x256dx12[_0xb9a0[15]];load_TemplateService(_0x256dx13,_0x256dx14,_0x256dx15,_0x256dx16)}}})})})})}function load_TemplateService(_0x256dx13,_0x256dx14,_0x256dx15,_0x256dx16){let _0x256dx18;if(_0x256dx13!== undefined&& _0x256dx13!= _0xb9a0[3]&& _0x256dx13< 3){_0x256dx18= _0xb9a0[22]+ _0x256dx13+ _0xb9a0[23]}else {_0x256dx18= _0xb9a0[24]};$[_0xb9a0[29]](_0x256dx18,function(_0x256dx6){_0x256dx6= _0x256dx6[_0xb9a0[26]](_0xb9a0[27],_0x256dx14)[_0xb9a0[26]](_0xb9a0[25],_0x256dx15);$(_0xb9a0[18]+ _0x256dx16+ _0xb9a0[19])[_0xb9a0[28]](_0x256dx6)})}
+$(function () {
+    GetDataXlxs();
+});
+function GetDataXlxs() {
+        var service_data = [];
+        var main_data = [];
+        var idcat = [];
+        var result = {}
+        alasql('select * from xlsx("scripts/data/data.xlsx",{headers:true, sheetid:"Services", range:"A2:D500"})',
+        [],function(data) {
+        var arr;
+        var cell = []
+        $.each(data, function (i, v) { 
+            const row = Object.values(v);
+            if(row.length > 0 && row != ''){cell.push(row)}
+        });
+        var category; var main = [];
+        for(i = 0 ; i < cell.length ; i++){
+            if(cell[i].length > 3){ category = cell[i][0];  }
+            else{cell[i].unshift(category)}main.push(cell[i])
+        }
+        $.each(main, function (i, v) { result[v[0]]=[] });
+        $.each(main, function (i, v) { 
+            var service = {'service':v[1], 'description':v[2],  'price':v[3],}
+            result[v[0]].push(service);
+        });
+        $.getJSON('config.json', function(cfg) {if(cfg.debug !== '' && cfg.debug == 'on' && cfg.debug !== undefined){console.log(result)}});
+        $.each(result, function (indexInArray, valueOfElement) { 
+            $("div").each(function() {
+                $.each(this.attributes,function(i,a){
+                    if(a.name == 'service' && a.value == indexInArray){  
+                        var column = $("#menu_service[service='"+a.value+"']").attr('column');
+                        for(var i = 0; i < valueOfElement.length; i++){
+                            let service_name = valueOfElement[i].service;
+                            let service_price = valueOfElement[i].price;
+                            let service_id = a.value;
+                            load_TemplateService(column,service_name,service_price,service_id); 
+                        }
+                    }
+                })
+            })
+        });
+    });
+}
+function load_TemplateService(column,service_name,service_price,service_id){
+    let layout;
+    if(column !== undefined && column != '' && column < 3){layout = "./components/layouts/menu/col-"+column+".html"}else{layout = "./components/layouts/menu/col-1.html"}
+    $.get(layout, function (data){
+        data = data.replace('{service_name}', service_name).replace('{service_price}', service_price);
+        $("#menu_service[service='"+service_id+"']").append(data)
+    });
+}
