@@ -1,0 +1,36 @@
+{
+    "data": {
+        "store"     : "Gellishious Nail And Spa",
+        "slug"      : "gellishious-nails-spa",
+        "phone"     : "480 990 1888",
+        "email"     : "gellishiousnailsandspa@gmail.com",
+        "address"   : "7620 E Indian School Rd Suite 112 Scottsdale, AZ 85251",
+        "time_1"    : "Monday: Closed",
+        "time_2"    : "Tuesday - Friday: 09:30 AM - 07:00 PM",
+        "time_3"    : "Saturday: 09:30 AM - 06:00 PM",
+        "time_4"    : "Sunday: 11:00 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/gellishiousnailsandspa",
+        "instagram" :   "https://www.instagram.com/gellishiousnailsandspaaz/",
+        "google"    :   "https://goo.gl/maps/yPQm3MWfF1iRVMnQ8", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDcxMjR8Z2VsbGlzaGlvdXM3NjIwfEFaXzA3OTQ5fGJlMDljY2M4YzA2MzEwZDc3ZTUxNjZlMGI1NzViMTEw",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13308.735849097977!2d-111.9160704!3d33.4965906!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbc5b0ae34e8f5da2!2sGellishious%20Nail%20and%20Spa!5e0!3m2!1svi!2s!4v1665051539086!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "rgb(20 81 137 / 100%)",
+        "primary_light"         :   "rgb(20 81 137 / 80%)",
+        "primary_hover"         :   "rgb(20 81 137 / 50%)",
+        "secondary"             :   "rgb(0 139 255)",
+        "secondary_hover"       :   "rgb(0 255 227)",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5500/"
+}
