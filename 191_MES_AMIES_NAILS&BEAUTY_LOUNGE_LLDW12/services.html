@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Lux Nails | Services</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <!-- Favicon -->
+        <link href="img/favicon.ico" rel="icon">
+
+        <!-- Google Font -->
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    
+        <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+
+        <!-- CSS Libraries -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/all.min.css" rel="stylesheet">
+        <link href="lib/animate/animate.min.css" rel="stylesheet">
+        <link href="lib/flaticon/font/flaticon.css" rel="stylesheet"> 
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+        <!-- Template Stylesheet -->
+        <link href="css/style.css" rel="stylesheet">
+    
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+    <div id="header"></div>
+
+
+    <style>
+        .page_title {
+    padding: 30px 0px;
+}
+.page_title h1 {
+    color: #c0392b;
+    font-weight: 700;
+    line-height: 2;
+    margin-bottom: 0;
+    position: relative;
+    text-transform: capitalize;
+}
+.page_title h1::before {
+    background: #c0392b;
+    width: 70px;
+    height: 2px;
+    position: absolute;
+    content: '';
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.page_title h1::after {
+    position: absolute;
+    content: '';
+    background: #fbc531;
+    width: 30px;
+    height: 2px;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/*Menu starts*/
+.menu_tab {
+    margin: 0 auto;
+    justify-content: center;
+}
+.nav-item {
+    display: inline-block;
+    text-align: center;
+}
+.nav-tabs .nav-link{
+    transition: .3s;
+}
+.nav-tabs .nav-link.active {
+    background: #c0392b;
+    color: #fff;
+    font-weight: 700;
+    border: 1px solid #c0392b;
+    text-transform: capitalize;
+}
+.nav-link {
+    color: #000;
+}
+.nav-tabs .nav-link:hover {
+    background: #c0392b;
+    color: #fff;
+    border: 1px solid #c0392b;
+}
+.single_menu {
+    position: relative;
+    margin-bottom: 75px;
+    transition: .3s;
+}
+.single_menu:hover img{
+    -webkit-clip-path: polygon(0% 0%, 100% 0, 100% 50%, 100% 100%, 0% 100%);
+clip-path: polygon(0% 0%, 100% 0, 100% 50%, 100% 100%, 0% 100%);
+
+}
+.single_menu img {
+    width: 33%;
+    /* position: absolute; */
+    height: 140px;
+    -webkit-clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+    clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+    transition: .3s;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.menu_content h4 {
+    font-size: 25px;
+    font-weight: 300;
+    border-bottom: 1px dashed #c0392b;
+    line-height: 2;
+    text-transform: capitalize;
+}
+.menu_content h4 span {
+    font-size: 25px;
+    font-weight: 800;
+    float: right;
+    font-style: italic;
+    color: #c0392b;
+}
+.menu_content p {
+    font-weight: 200;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+.menu_btn.btn.btn-danger {
+    margin: 0 auto;
+    display: block;
+    width: 140px;
+}
+/*Menu ends*/
+.menu_btn.btn.btn-danger {
+	margin: 0 auto;
+	display: block;
+	width: 140px;
+}
+.btn.btn-danger {
+	background: var(--primary);
+	border: 1px solid var(--primary);
+	transition: .3s;
+	position: relative;
+	z-index: 1;
+	text-transform: capitalize;
+	font-weight: 700;
+	overflow: hidden;
+	padding: 15px 25px;
+}
+.btn.btn-danger::before {
+	position: absolute;
+	content: '';
+	background: var(--primary-hover);
+	width: 100%;
+	height: 100%;
+	left: -100%;
+	top: 100%;
+	transition: .3s;
+	z-index: -1;
+}
+.btn.btn-danger:hover:before{
+    top: 0;
+    left: 0;
+}
+    </style>
+        <!-- Page Header Start -->
+        <div class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2>Services</h2>
+                    </div>
+                    <div class="col-12">
+                        <a href="index.html">Home</a>
+                        <a href="">Services</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Page Header End -->
+
+
+        <!-- Services Start -->
+        <div class="service">
+            <div class="container">
+                <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+                    <p>{store}</p>
+                    <h2>Our Services</h2>
+                </div>
+
+                <section id="our_menu" class="pt-5 pb-5">
+                    <div class="container">
+                        <!-- <div class="row">
+                            <ul class="nav nav-tabs menu_tab mb-4" id="myTab" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link active" id="breakfast-tab" data-toggle="tab" href="#breakfast" role="tab">Breakfast</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="lunch-tab" data-toggle="tab" href="#lunch" role="tab">Lunch</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="dinner-tab" data-toggle="tab" href="#dinner" role="tab">Dinner</a>
+                                </li>
+                            </ul>
+                        </div> -->
+                        <div class="row">
+                            <div class="tab-content col-lg-12" id="myTabContent">
+                                <div class="tab-pane fade show active" id="breakfast" role="tabpanel" aria-labelledby="breakfast-tab">
+                                    <div class="row">
+                                        <div class="col-md-12">
+
+                                            <div class="single_menu">
+                                                <div class="row">
+                                                    <div class="col-lg-3 col-md-4">
+                                                        <img class="w-100" src="#" pic_src="service-1.jpg" path>
+                                                    </div>
+                                                    <div class="col-lg-9 col-md-8 menu_content">
+                                                        <h4 class="font-weight-bold">PEDICURE</h4>
+                                                        <div id="menu_service" class="row" service="PEDICURE" column="2"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="single_menu">
+                                                <div class="row">
+                                                    <div class="col-lg-3 col-md-4">
+                                                        <img class="w-100" src="#" pic_src="service-2.jpg" path>
+                                                    </div>
+                                                    <div class="col-lg-9 col-md-8 menu_content">
+                                                        <h4 class="font-weight-bold">MANICURE</h4>
+                                                        <div id="menu_service" class="row" service="MANICURE" column="2"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="single_menu">
+                                                <div class="row">
+                                                    <div class="col-lg-3 col-md-4">
+                                                        <img class="w-100" src="#" pic_src="service-3.jpg" path>
+                                                    </div>
+                                                    <div class="col-lg-9 col-md-8 menu_content">
+                                                        <h4 class="font-weight-bold">ADDITIONAL ADD ON</h4>
+                                                        <div id="menu_service" class="row" service="ADDITIONAL ADD ON" column="2"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="single_menu">
+                                                <div class="row">
+                                                    <div class="col-lg-3 col-md-4">
+                                                        <img class="w-100" src="#" pic_src="service-4.jpg" path>
+                                                    </div>
+                                                    <div class="col-lg-9 col-md-8 menu_content">
+                                                        <h4 class="font-weight-bold">NAILS ENHANCEMENT</h4>
+                                                        <div id="menu_service" class="row" service="NAILS ENHANCEMENT" column="2"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="single_menu">
+                                                <div class="row">
+                                                    <div class="col-lg-3 col-md-4">
+                                                        <img class="w-100" src="#" alt="" pic_src="service-5.jpg" path>
+                                                    </div>
+                                                    <div class="col-lg-9 col-md-8 menu_content">
+                                                        <h4 class="font-weight-bold">ADDITIONAL ADD ON</h4>
+                                                        <div id="menu_service" class="row" service="ADDITIONAL ADD ON" column="2"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="single_menu">
+                                                <div class="row">
+                                                    <div class="col-lg-3 col-md-4">
+                                                        <img class="w-100" src="#" alt="" pic_src="service-6.jpg" path>
+                                                    </div>
+                                                    <div class="col-lg-9 col-md-8 menu_content">
+                                                        <h4 class="font-weight-bold">CHILDREN</h4>
+                                                        <!-- <p class="w-100">(Apply to children age of 10 or younger). All kid's services include 2 complimentary flower designs with Mani & Pedi Combo.</p> -->
+                                                        <div id="menu_service" class="row" service="CHILDREN" column="1"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="#" class=" menu_btn btn btn-danger" data-booking>Book Now</a>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+        <!-- Services End -->
+
+
+    <!-- Footer Start -->
+    <div id="footer"></div>
+    <!-- Footer End -->
+        <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+        <!-- JavaScript Libraries -->
+        <script src="js/jquery-3.4.1.min.js"></script>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/wow/wow.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/isotope/isotope.pkgd.min.js"></script>
+        <script src="lib/lightbox/js/lightbox.min.js"></script>
+        
+        <!-- Contact Javascript File -->
+        <script src="mail/jqBootstrapValidation.min.js"></script>
+        <script src="mail/contact.js"></script>
+
+        <!-- Template Javascript -->
+        <script src="js/main.js"></script>
+        <script src="./scripts/lib/xlsx.core.min.js" defer></script>
+        <script src="./scripts/lib/alasql.js" defer></script>
+        <script src='./scripts/xlsx.js' defer></script></body>
+    <script src='./scripts/components.js' defer></script></body>
+</html>

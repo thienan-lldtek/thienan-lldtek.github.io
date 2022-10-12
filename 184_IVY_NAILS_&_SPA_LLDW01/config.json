@@ -1,0 +1,34 @@
+{
+    "data": {
+        "store"     : "Ivy Nails & Spa",
+        "slug"      : "ivy-nails-spa",
+        "phone"     : "909 923 9941",
+        "email"     : "ivynailsspa123@gmail.com",
+        "address"   : "3055 S Archibald Ave Suite D Ontario, CA 91761",
+        "time_1"    : "Mon - Sat: 9:30 AM - 7:00 PM",
+        "time_2"    : "Sun 10:00 AM - 5:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/ivynailsspa.CA/",
+        "instagram" :   "https://www.instagram.com/ivynailsspa.ca/",
+        "google"    :   "https://goo.gl/maps/Wr5keyRcZp8FgAYy9", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDc1Njd8aXZ5bmFpbHM4OHxDQV8wNzk4NHwwZWI2MzQxNDc3MDVhM2I1ZGNmNGJiMGUwYTdhMTYyNQ==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13228.063820637637!2d-117.5914064!3d34.0178014!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe778b605dd8732b6!2sDiamond%20Nails!5e0!3m2!1svi!2s!4v1665045800319!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#ff847d",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#fdd4d1",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "assets/images",
+    "domain":       "http://127.0.0.1:5500/"
+}
