@@ -231,7 +231,7 @@ h6.caption {
 /*-- //banner --*/
 /*--header end here--*/
 .baner {
-    background: url(../images/b3.jpg) no-repeat 0px 0px;
+    /* background: url(../images/b3.jpg) no-repeat 0px 0px; */
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
