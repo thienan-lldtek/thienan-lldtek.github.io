@@ -326,7 +326,7 @@ span.simply-word {
 	width:32%;
 }
 .w3l-b-one{
-      background:url(../images/b1.jpg) no-repeat 0px 0px;
+      /* background:url(../images/b1.jpg) no-repeat 0px 0px; */
     min-height:100px;
     background-size: cover;
     text-align: center;
@@ -420,7 +420,7 @@ ul.about-list li span.fa {
     color: #191826;
 }
 .about2 {
-    background: url(../images/b2.jpg) no-repeat;
+    /* background: url(../images/b2.jpg) no-repeat; */
     background-size: cover;
     background-position: center;
     /* background-attachment: fixed; */
@@ -598,7 +598,7 @@ p.white-clrf {
     letter-spacing: 1px;
 }
 .wthree-subscribef-w3ls {
-    background: url(../images/ban1.jpg) no-repeat 0px 0px;
+    /* background: url(../images/ban1.jpg) no-repeat 0px 0px; */
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -655,7 +655,7 @@ p.white-clrf {
 }
 /*-- wthree-mid --*/
 .wthree-mid {
-    background: url(../images/b1.jpg) no-repeat 0px 0px;
+    /* background: url(../images/b1.jpg) no-repeat 0px 0px; */
     background-size: cover;
 	padding:5em 0;
 	text-align:left;
@@ -792,7 +792,7 @@ p.white-clrf {
     padding: 5em 0 0;
 }
 .donail_left {
-    background: url(../images/1.jpg) no-repeat;
+    /* background: url(../images/1.jpg) no-repeat; */
     background-size: cover;
     background-position: center;
     min-height: 512px;
