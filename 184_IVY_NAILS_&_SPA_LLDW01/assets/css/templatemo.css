@@ -967,8 +967,7 @@ footer.foorter_bg .footer_bottom{
 #menu_service[column="2"] .service_item .service_price{
     font-size: 17px!important; font-family: 'Roboto'; color:var(--primary);
 }
-
-
-
 #menu_service[column="2"] .service_item:nth-child(even){border-right: none!important;}
 
+.bs-bg-primary{background: var(--primary);}
+.bs-bg-primary:hover{background: var(--primary-hover);}
