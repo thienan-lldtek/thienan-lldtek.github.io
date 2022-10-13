@@ -30,7 +30,7 @@
         "text_title"            :   "#429D64",
         "text_title_hover"      :   "#90C73E"
     },
-    "debug":        "on",
+    "debug":        "off",
     "path_image":   "images",
     "domain":       "https://thienan-lldtek.github.io/173_Gellishious_Nail_And_Spa_LLDW03/"
 }
